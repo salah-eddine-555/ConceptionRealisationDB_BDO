@@ -1,0 +1,5 @@
+
+
+c'est le lien pour la conception de base de donnees bdoInfo  =>     
+
+https://miro.com/welcomeonboard/TXV5c2d3UXIwOXBOT1NjQS9WYm0yRHovQytvVmpGdGtXbUZHai8vRVhJZUJkZkh4ZzZaVFpLMkhBSDV6eVZ6d3F1cUZMSmU0bkFmRG5icWVRT1RSOEVBM1AwNExQVG5RY1kyQVhJYVBCZ3NxWmpVZjlTVjB6K0M1blBSdVZ5UWlyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=92548908753
