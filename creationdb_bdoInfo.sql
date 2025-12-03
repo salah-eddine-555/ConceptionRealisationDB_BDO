@@ -6,6 +6,7 @@ use bdoInfo;
 create table Membres (idMembre int primary key auto_increment,
 						nomMembre varchar(255),
                         prenomMembre varchar(255),
+                        roleMembre varchar(20),
                         emailMem varchar(200),
                         dateDathesion date
                         );
